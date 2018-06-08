@@ -1,10 +1,22 @@
+
+
 Test-Series – Part 3
 ---
 
-https://www.fromdev.com/2012/02/java-interview-question-answer.html
+- What is Marker interface? How is it used in Java?
 
-http://www.java2novice.com/java-interview-programs/
+- Write a program to find common elements between two arrays.
 
-http://www.java67.com/2012/08/10-java-coding-interview-questions-and.html
+- What is the purpose of garbage collection?
 
-https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html
+- Why do we need generics in java?
+
+- How can you convert Map to List?
+
+- Can we have interfaces with no defined methods in java?
+
+- Write a Java program to find if a number is prime number or not?
+
+- Print repeated characters of String?
+
+- Reverse a number
